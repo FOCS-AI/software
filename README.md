@@ -64,3 +64,58 @@ List of Software Tools and Packages Used in Network Topology Design, Monitoring,
 | Cacti                                                          | Free                                                             | An open-source, web-based network monitoring and graphing tool designed as a front-end application for the data logging tool called RRDtool. Suitable for optical networks. |
 | Optical PMD (Python Module)                                    | Free                                                             | Python package for monitoring and managing optical network elements using the SNMP protocol.                                                                                |
 | Optical Network Simulator (ONS)                                | Free                                                             | While primarily a simulator, can provide insights useful for monitoring by emulating various optical network scenarios.                                                     |
+
+
+## General Optical Fiber Communication Software/Packages/Github Repos: 
+| Name                             | Type/Language            | Access  | Primary Purpose                                                                            |
+|----------------------------------|--------------------------|---------|--------------------------------------------------------------------------------------------|
+| GNpy                             | Python                   | Free    | Optical route planning & optimization                                                      |
+| pypho                            | Python                   | Unknown | Optical fiber transmission simulation                                                      |
+| Pyofss                           | Python                   | Free    | Optical fibre system simulation                                                            |
+| Mininet-Optical Prototype        | Python                   | Free    | Optical network simulation with SDN control plane                                          |
+| OptiCommPy                       | Python                   | Free    | Optical communications systems simulation                                                  |
+| ofiber                           | Python                   | Free    | Light propagation through optical fibers                                                   |
+| pyNLO                            | Python                   | Free    | Nonlinear optics modeling                                                                  |
+| DTSGUI                           | Python                   | Free    | Fiber-Optic Distributed Temperature Sensing Data visualization and processing              |
+| SuPyMode                         | Python                   | Free    | Fiber couplers design & optimization                                                       |
+| GNLSE                            | Python                   | Free    | Nonlinear Light Propagation In Optical Fibers                                              |
+| NFDMLab                          | Python                   | Free    | Simulating Nonlinear Frequency Division Multiplexing                                       |
+| pyfocs                           | Python                   | Free    | Processing Fiber Optic Distributed Sensing (FODS) data                                     |
+| Understanding Optics with Python | Python                   | Fees    | Python code supporting material for the book                                               |
+| Optics simulations with Python   | Python                   | Unknown | Optics simulations                                                                         |
+| PyRPL                            | Python                   | Free    | Control of phase-only spatial light modulators                                             |
+| POCAL                            | Python                   | Free    | Optical coating analysis & design                                                          |
+| Design of FIber Gratings         | Python                   | Unknown | Design & Optimization of Long Period Fiber Grating Devices                                 |
+| AOTools                          | Python                   | Free    | Adaptive optics modelling & analysis                                                       |
+| Holographic Imaging              | Python                   | Unknown | Numerical reconstruction of holograms                                                      |
+| FIINS                            | Python                   | Unknown | Simulator for a Far-infrared Double Fourier Interferometer in Space                        |
+| Dynamic Measurements             | Python                   | Unknown | Dynamic scheduling assistant for atmospheric measurements                                  |
+| pyLLE                            | Python                   | Free    | Microcomb simulations                                                                      |
+| ptyLab                           | Python                   | Unknown | Inverse modeling toolbox for ptychography                                                  |
+| OpenFilters                      | Python                   | Free    | Design, optimization, and synthesis of optical filters                                     |
+| qp-SLM                           | Python                   | Free    | Holography suite for spatial light modulators                                              |
+| Opti-MSFA                        | Python                   | Free    | Design & optimization of multispectral filter arrays                                       |
+| TMM-Fast                         | Python                   | Free    | Transfer matrix computation for multilayer thin-film optimization                          |
+| OTF Gym                          | Python                   | Free    | RL Environment of Layered Optical Thin Film Inverse Design                                 |
+| Benchmarking optical tools       | Python                   | Unknown | Benchmarking schlieren against interferometric measurement                                 |
+| MetaOptics                       | Python                   | Free    | Designing metasurface optical element GDSII layouts                                        |
+| Teaching Optics                  | Python                   | Unknown | Teaching photonic integrated circuits with Jupyter notebooks                               |
+| PyMieSim                         | Python                   | Free    | Far-field Mie scattering simulations                                                       |
+| Tomosipo                         | Python                   | Free    | 3D tomography for complex scanning geometries                                              |
+| OptiSystem                       | GUI                      | Fees    | Optical link planning, testing, & simulation                                               |
+| VPIphotonics Design Suite        | GUI                      | Fees    | Photonic circuit & system design                                                           |
+| RSoft Design Group               | GUI                      | Fees    | Photonic component & system design                                                         |
+| PVTrace                          | Python                   | Free    | Optical system analysis & lens simulations                                                 |
+| meep                             | Python/C++               | Free    | Electromagnetic simulations using FDTD method                                              |
+| Lumerical                        | GUI with Python API      | Fees    | Photonic simulation tools with automation                                                  |
+| OMNeT++                          | C++                      | Free    | Modular, component-based network simulation                                                |
+| ns-3                             | C++/Python               | Free    | General-purpose network simulator                                                          |
+| MATLAB and Simulink              | GUI with MATLAB Language | Fees    | Optical communication systems & photonics simulations                                      |
+| rwa-wdm-sim                      | Python                   | Free    | Simulator for RWA problem in WDM transparent networks                                      |
+| Arrow                            | Julia                    | Free    | Simulator for RWA over WDM-based all-optical networks                                      |
+| Req2Route                        | Python                   | Free    | AI-Based Routing Paradigm for Multi-Domain Optical Networks                                |
+| Efficient-ML                     | Python                   | Free    | Identification of attacks and anomalies in optical networks using dimensionality reduction |
+| Bow                              | Python                   | Free    | Bayesian Optimization System for Wavelength Reconfiguration                                |
+| Traffic Generator                | C++/Python               | Free    | Traffic generator in optical networks using Poisson Distribution                           |
+| CEONS                            | Java                     | Free    | Visualization tool for elastic optical networks                                            |
+| SNDlib                           | Java                     | Free    | Test library for Survivable fixed telecommunication Network Design                         |
